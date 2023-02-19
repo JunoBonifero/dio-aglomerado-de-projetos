@@ -2,6 +2,9 @@ package exercicios;
 
 import java.util.Scanner;
 
+/*Faça um programa que peça N números inteiros. Calcule e mostre a
+quantidade de números pares e a quantidade de números impares.
+ */
 public class ExerciseDoWhile2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
